@@ -29,6 +29,9 @@ header h2 { text-transform: uppercase; font-weight: normal; color: white; font-s
 .item-text { width: 100%; height: 26px; line-height: 24px; border: 1px solid transparent; background-color: transparent; color: white; font-size: 1em;}
 .item-text:focus, .item-text:hover { border-color: #aaa; background-color: darkgrey; }
 
+/* link to send SMS notification */
+#smsTest {padding: 20px;}
+
 /* Footer */
 footer { text-align: center; font-size: 0.8em; margin-top: 20px; }
 footer a { color: #666; display: block; }
